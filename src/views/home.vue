@@ -1,6 +1,6 @@
 <template>
   <div>
-    <RouterLink to="/box">1. 长方形加载</RouterLink>
+    <router-link to="/box">1. 长方形加载</router-link>
   </div>
 </template>
 <script setup>
